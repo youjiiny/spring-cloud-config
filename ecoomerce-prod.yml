@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000001
+  secret: bV6Fd1t1nSm+zcnw2QeI4HGvYebKmhgUrBv9kHaPCgc=prod
+
+gateway:
+  ip: 192.168.0.8
