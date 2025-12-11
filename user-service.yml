@@ -9,5 +9,9 @@ logging:
   level:
     root: INFO
 
+token:
+  expiration_time: 864000000
+  secret: my-very-long-secret-key-1234567890123456-from-remote-repo-userservice
+
 order-service:
   url: http://127.0.0.1:8000/order-service/%s/orders
