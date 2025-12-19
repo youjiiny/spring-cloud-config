@@ -20,4 +20,4 @@ order-service:
      order-is-empty: Users's orders is empty
 
 gateway:
-  ip: 172.18.0.1
+  ip: 172.18.0.3
